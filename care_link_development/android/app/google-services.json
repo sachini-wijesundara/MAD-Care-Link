@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "869967180478",
+    "project_id": "carelink-medical",
+    "storage_bucket": "carelink-medical.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869967180478:android:7a8c8cae225d050dcf24ef",
+        "android_client_info": {
+          "package_name": "com.example.care_link_development"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBngwAUDS9Z2HwSUMxrhgCGjEDFrjV9ZfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
